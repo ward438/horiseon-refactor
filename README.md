@@ -1,9 +1,6 @@
 # horiseon-refactor
-https://github.com/ward438/horiseon-refactor
 
+Horiseon code refactor.
 
-Horiseon code refactor. 
-  Consolidated selectors,
-  Added symantic tags,
-  fixed a typo,
-  
+<img src="horiseon-refactor\assets\images\horiseon.png" alt="Horiseon Preview"
+width="150px">
