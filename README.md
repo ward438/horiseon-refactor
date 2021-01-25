@@ -2,5 +2,5 @@
 
 Horiseon code refactor.
 
-<img src="horiseon-refactor\assets\images\horiseon.png" alt="Horiseon Preview"
-width="150px">
+<img src="https://github.com/ward438/horiseon-refactor/blob/main/assets/images/horiseon.png" alt="Horiseon Preview"
+width="150px"/>
